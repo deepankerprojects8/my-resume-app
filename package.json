@@ -6,7 +6,7 @@
     "@nomoreanalog/react-scripts-eslintless": "2.1.10",
     "@progress/kendo-drawing": "^1.5.12",
     "@progress/kendo-react-pdf": "^3.2.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
